@@ -1,0 +1,40 @@
+baum-WelchLearning.py :
+An implementation of Baum-Welch learning to generate the transition and
+emission probabilities from a sequence.
+baum-WelchLearning.txt :
+Example input and expected output
+
+cyclopeptide.py :
+This program can determine the possible sequences of a cyclopeptide given an
+ideal spectrum (where all subsets of the full length sequence are included).
+cyclopeptide.txt :
+Example input and expected output
+
+cyclospectrum.py :
+This program generates the theoretical spectrum of a cyclic peptide.
+cyclospectrum.txt :
+Example input and expected output
+
+deBruijnGraph.py :
+This program generates a DeBruijn graph using specified lengths of a given
+string.
+deBruijnGraph.txt :
+Example input and expected output
+
+proteinDecoder.py :
+Finds all substrings of text encoding a peptide given a peptide sequence and
+nucleotide sequence.
+proteinDecoder.txt :
+Example input and expected output
+
+softDecoding.py :
+This program generates the probability of a sequence being in a possible state
+given its emission sequence, emission matrices and transition matrices.
+softDEcoding.txt
+Example input and expected output
+
+viterbiLearning.py :
+This program implements Viterbi learning to generate the transition and
+emission probabilities from a sequence.
+viterbiLearning.txt
+Example input and expected output
