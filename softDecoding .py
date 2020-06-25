@@ -61,8 +61,6 @@ class FileReader :
 
 class HMM:
    '''
-   Note:
-      Recieved help from Alex Bagi on Output Method
    Args:
       observation: a string of the observation
       alphabet: a list of the alphabet in a hmm
