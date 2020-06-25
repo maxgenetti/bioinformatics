@@ -22,8 +22,7 @@ import numpy as np
 
 class FileReader :
    '''
-   Note:
-      Edited from class FastaReader provided by David Bernick
+
    Args:
       fname: a file formatted with a string in each line
       
